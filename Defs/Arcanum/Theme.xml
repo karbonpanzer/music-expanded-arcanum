@@ -1,0 +1,33 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_Arcanum</defName>
+        <label>Music Expanded: Arcanum: Of Steamworks and Magick Obscura</label>
+		<iconPath>UI/Icons/Arcanum</iconPath>
+        <description>Contains Tracks from the classic RPG, Arcanum: Of Steamworks and Magick Obscura. This has all the officail tracks and 4 battle tracks for when you remove the vile Gnomes from this plane of existence because fuck those pieces of shit.</description>
+		<tracks>			
+			<li>ME_Arcanum_Caladon</li>
+			<li>ME_Arcanum_Cities</li>
+			<li>ME_Arcanum_Kerghans_Castle</li>
+			<li>ME_Arcanum_Qintarra</li>
+			<li>ME_Arcanum_Radcliffes_Commission</li>
+			<li>ME_Arcanum_Tarant</li>
+			<li>ME_Arcanum_The_Demise_Of_The_Zephyr</li>
+			<li>ME_Arcanum_The_Isle_of_Despair</li>
+			<li>ME_Arcanum_The_Tarant_Sewers</li>
+			<li>ME_Arcanum_The_Vendigroth_Wastes</li>
+			<li>ME_Arcanum_The_Void</li>
+			<li>ME_Arcanum_The_Wheel_Clan</li>
+			<li>ME_Arcanum_Towns</li>
+			<li>ME_Arcanum_Tulla</li>
+			<li>ME_Arcanum_Villages</li>
+			<li>ME_Arcanum_Wilderness</li>
+			
+			<li>ME_Arcanum_Arcanum</li>
+			
+			<li>ME_Arcanum_Battle_At_Vendigroth</li>
+			<li>ME_Arcanum_Caladon_Catacombs</li>
+			<li>ME_Arcanum_Dungeons</li>
+			<li>ME_Arcanum_Mines</li>			
+		</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>

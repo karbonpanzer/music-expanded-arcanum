@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Music Expanded: Arcanum: Of Steamworks and Magick Obscura</name>
+    <description><![CDATA[Imagine a place of wonder, where magick and technology hold equal sway, and an adventurer might just as easily wield a flintlock pistol as a flaming sword. Arcanum is the world where Tolkienesque realms of humans, elves, dwarves, orcs, and halflings are in the midst of an industrial revolution reminiscent of 19th century Europe. 
+
+The entire soundtrack from the classic RPG, Arcanum: Of Steamworks and Magick Obscura. This has all the officail tracks and 4 battle tracks for when you remove the vile Gnomes from this plane of existence because fuck those pieces of shit.
+
+Tracks:
+Arcanum, Qintarra, Wilderness, Caladon, Cities, The Wheel Clan, Villages, Tarant, Towns, Radcliffe's Commission, The Demise of the “Zepher”, The Vendigroth Wastes, Tulla, The Isle of Despair, The Tarant Sewers, Kerghan's Castle, The Void, Battle at Vendigroth, Caladon Catacombs, Dungeons, Mines.]]>
+    </description>
+    <author>karbonpanzer</author>
+    <packageId>musicexpanded.arcanum</packageId>
+    <supportedVersions>
+        <li>1.3</li>
+        <li>1.4</li>
+        <li>1.5</li>	
+    </supportedVersions>
+    <loadAfter>
+        <li>musicexpanded.framework</li>
+        <li>VanillaExpanded.VEE</li>
+    </loadAfter>
+    <modDependencies>
+        <li>
+            <packageId>musicexpanded.framework</packageId>
+            <displayName>Music Expanded Framework</displayName>
+            <downloadUrl>https://github.com/Music-Expanded/music-expanded-framework/releases/latest</downloadUrl>
+        </li>
+    </modDependencies>
+</ModMetaData>
