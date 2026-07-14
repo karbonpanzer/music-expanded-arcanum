@@ -4,7 +4,7 @@
         <defName>ME_Arcanum</defName>
         <label>Music Expanded: Arcanum: Of Steamworks and Magick Obscura</label>
 		<iconPath>UI/Icons/Arcanum</iconPath>
-        <description>Contains the complete official soundtrack from the classic RPG Arcanum: Of Steamworks and Magick Obscura. Four combat cues scale with raid size and decay as the threat subsides; a set of tense sustain tracks holds the line while danger persists. Includes main menu and credits themes.</description>
+        <description>Contains Tracks from the classic RPG, Arcanum: Of Steamworks and Magick Obscura. This has all the officail tracks and 4 battle tracks for when you remove the vile Gnomes from this plane of existence because fuck those pieces of shit.</description>
 		<tracks>			
 			<li>ME_Arcanum_Caladon</li>
 			<li>ME_Arcanum_Cities</li>
@@ -28,18 +28,7 @@
 			<li>ME_Arcanum_Battle_At_Vendigroth</li>
 			<li>ME_Arcanum_Caladon_Catacombs</li>
 			<li>ME_Arcanum_Dungeons</li>
-			<li>ME_Arcanum_Mines</li>
-
-			<!-- Sustain (un-cued, tense) -->
-			<li>ME_Arcanum_Sustain_BattleAtVendigroth</li>
-			<li>ME_Arcanum_Sustain_Dungeons</li>
-			<li>ME_Arcanum_Sustain_Mines</li>
-			<li>ME_Arcanum_Sustain_CaladonCatacombs</li>
-			<li>ME_Arcanum_Sustain_KerghansCastle</li>
-			<li>ME_Arcanum_Sustain_TheVoid</li>
-
-			<!-- Credits -->
-			<li>ME_Arcanum_Credits_TheVoid</li>			
+			<li>ME_Arcanum_Mines</li>			
 		</tracks>
     </MusicExpanded.ThemeDef>
 </Defs>

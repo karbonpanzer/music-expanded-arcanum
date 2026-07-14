@@ -108,100 +108,28 @@
 		<label>Arcanum - Battle At Vendigroth</label>
 		<defName>ME_Arcanum_Battle_At_Vendigroth</defName>
 		<clipPath>MusicExpanded/Arcanum/Arcanum- Battle At Vendigroth</clipPath>
-		<cue>BattleSmall</cue>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
     </MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
 		<label>Arcanum - Dungeons</label>
 		<defName>ME_Arcanum_Dungeons</defName>
 		<clipPath>MusicExpanded/Arcanum/Arcanum- Dungeons</clipPath>
-		<cue>BattleMedium</cue>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
     </MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
 		<label>Arcanum - Mines</label>
 		<defName>ME_Arcanum_Mines</defName>
 		<clipPath>MusicExpanded/Arcanum/Arcanum- Mines</clipPath>
-		<cue>BattleLarge</cue>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
     </MusicExpanded.TrackDef>	
 	<MusicExpanded.TrackDef>	
 		<label>Arcanum - Caladon Catacombs</label>
 		<defName>ME_Arcanum_Caladon_Catacombs</defName>
 		<clipPath>MusicExpanded/Arcanum/Arcanum- Caladon Catacombs</clipPath>
-		<cue>BattleLegendary</cue>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
     </MusicExpanded.TrackDef>
-
-	<!-- ============================================================
-	     SUSTAIN  (no cue -> pull path; vanillaLogic + tense)
-	     The four battle CUES above are the "hit": pushed instantly by
-	     IncidentWorker and scaled to raid points, decaying Legendary ->
-	     Large -> Medium -> Small. But once a cued track ends and danger
-	     is still High, ChooseNextSong falls back to the pull path, and
-	     without any tense=true track there, it finds nothing, logs
-	     "Couldn't find a track to play" and force-enables the Vanilla
-	     theme. These duplicate defs point at the same clips (ContentFinder
-	     caches by path, so nothing loads twice) and fill that hole.
-	     ============================================================ -->
-
-	<MusicExpanded.TrackDef>
-		<label>Arcanum - Battle at Vendigroth</label>
-		<defName>ME_Arcanum_Sustain_BattleAtVendigroth</defName>
-		<clipPath>MusicExpanded/Arcanum/Arcanum- Battle At Vendigroth</clipPath>
-		<vanillaLogic>true</vanillaLogic>
-		<tense>true</tense>
-	</MusicExpanded.TrackDef>
-
-	<MusicExpanded.TrackDef>
-		<label>Arcanum - Dungeons</label>
-		<defName>ME_Arcanum_Sustain_Dungeons</defName>
-		<clipPath>MusicExpanded/Arcanum/Arcanum- Dungeons</clipPath>
-		<vanillaLogic>true</vanillaLogic>
-		<tense>true</tense>
-	</MusicExpanded.TrackDef>
-
-	<MusicExpanded.TrackDef>
-		<label>Arcanum - Mines</label>
-		<defName>ME_Arcanum_Sustain_Mines</defName>
-		<clipPath>MusicExpanded/Arcanum/Arcanum- Mines</clipPath>
-		<vanillaLogic>true</vanillaLogic>
-		<tense>true</tense>
-	</MusicExpanded.TrackDef>
-
-	<MusicExpanded.TrackDef>
-		<label>Arcanum - Caladon Catacombs</label>
-		<defName>ME_Arcanum_Sustain_CaladonCatacombs</defName>
-		<clipPath>MusicExpanded/Arcanum/Arcanum- Caladon Catacombs</clipPath>
-		<vanillaLogic>true</vanillaLogic>
-		<tense>true</tense>
-		<commonality>0.5</commonality>
-	</MusicExpanded.TrackDef>
-
-	<MusicExpanded.TrackDef>
-		<label>Arcanum - Kerghan's Castle</label>
-		<defName>ME_Arcanum_Sustain_KerghansCastle</defName>
-		<clipPath>MusicExpanded/Arcanum/Arcanum- Kerghan's Castle</clipPath>
-		<vanillaLogic>true</vanillaLogic>
-		<tense>true</tense>
-	</MusicExpanded.TrackDef>
-
-	<MusicExpanded.TrackDef>
-		<label>Arcanum - The Void</label>
-		<defName>ME_Arcanum_Sustain_TheVoid</defName>
-		<clipPath>MusicExpanded/Arcanum/Arcanum- The Void</clipPath>
-		<vanillaLogic>true</vanillaLogic>
-		<tense>true</tense>
-	</MusicExpanded.TrackDef>
-
-
-	<!-- ============================================================
-	     CREDITS  (duplicate def; MEF native logic, no vanillaLogic:
-	     MusicManagerPlay is null on the credits screen)
-	     ============================================================ -->
-
-	<MusicExpanded.TrackDef>
-		<label>Arcanum - The Void</label>
-		<defName>ME_Arcanum_Credits_TheVoid</defName>
-		<clipPath>MusicExpanded/Arcanum/Arcanum- The Void</clipPath>
-		<cue>Credits</cue>
-		<playOnMap>false</playOnMap>
-	</MusicExpanded.TrackDef>
-
 </Defs>
