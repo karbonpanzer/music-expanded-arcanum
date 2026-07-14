@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - Caladon</label>
+		<defName>ME_Arcanum_Caladon</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- Caladon</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - Cities</label>
+		<defName>ME_Arcanum_Cities</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- Cities</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>	<MusicExpanded.TrackDef>
+		<label>Arcanum - Kerghan's Castle</label>
+		<defName>ME_Arcanum_Kerghans_Castle</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- Kerghan's Castle</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - Qintarra</label>
+		<defName>ME_Arcanum_Qintarra</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- Qintarra</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - Radcliffe's Commission</label>
+		<defName>ME_Arcanum_Radcliffes_Commission</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- Radcliffe's Commission</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - Tarant</label>
+		<defName>ME_Arcanum_Tarant</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- Tarant</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - The Demise of the Zephyr</label>
+		<defName>ME_Arcanum_The_Demise_Of_The_Zephyr</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- The Demise Of The Zephyr</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - The Isle of Despair</label>
+		<defName>ME_Arcanum_The_Isle_of_Despair</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- The Isle Of Despair</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - The Tarant Sewers</label>
+		<defName>ME_Arcanum_The_Tarant_Sewers</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- The Tarant Sewers</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - The Vendigroth Wastes</label>
+		<defName>ME_Arcanum_The_Vendigroth_Wastes</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- The Vendigroth Wastes</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - The Void</label>
+		<defName>ME_Arcanum_The_Void</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- The Void</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - The Wheel Clan</label>
+		<defName>ME_Arcanum_The_Wheel_Clan</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- The Wheel Clan</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - Towns</label>
+		<defName>ME_Arcanum_Towns</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- Towns</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - Tulla</label>
+		<defName>ME_Arcanum_Tulla</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- Tulla</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - Villages</label>
+		<defName>ME_Arcanum_Villages</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- Villages</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - Wilderness</label>
+		<defName>ME_Arcanum_Wilderness</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- Wilderness</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - Arcanum</label>
+		<defName>ME_Arcanum_Arcanum</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- Arcanum</clipPath>
+        <cue>MainMenu</cue>
+		<playOnMap>false</playOnMap>
+    </MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - Battle At Vendigroth</label>
+		<defName>ME_Arcanum_Battle_At_Vendigroth</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- Battle At Vendigroth</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - Dungeons</label>
+		<defName>ME_Arcanum_Dungeons</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- Dungeons</clipPath>
+		<cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - Mines</label>
+		<defName>ME_Arcanum_Mines</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- Mines</clipPath>
+		<cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>	
+		<label>Arcanum - Caladon Catacombs</label>
+		<defName>ME_Arcanum_Caladon_Catacombs</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- Caladon Catacombs</clipPath>
+		<cue>BattleLegendary</cue>
+    </MusicExpanded.TrackDef>
+
+	<!-- ============================================================
+	     SUSTAIN  (no cue -> pull path; vanillaLogic + tense)
+	     The four battle CUES above are the "hit": pushed instantly by
+	     IncidentWorker and scaled to raid points, decaying Legendary ->
+	     Large -> Medium -> Small. But once a cued track ends and danger
+	     is still High, ChooseNextSong falls back to the pull path, and
+	     without any tense=true track there, it finds nothing, logs
+	     "Couldn't find a track to play" and force-enables the Vanilla
+	     theme. These duplicate defs point at the same clips (ContentFinder
+	     caches by path, so nothing loads twice) and fill that hole.
+	     ============================================================ -->
+
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - Battle at Vendigroth</label>
+		<defName>ME_Arcanum_Sustain_BattleAtVendigroth</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- Battle At Vendigroth</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>
+
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - Dungeons</label>
+		<defName>ME_Arcanum_Sustain_Dungeons</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- Dungeons</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>
+
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - Mines</label>
+		<defName>ME_Arcanum_Sustain_Mines</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- Mines</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>
+
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - Caladon Catacombs</label>
+		<defName>ME_Arcanum_Sustain_CaladonCatacombs</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- Caladon Catacombs</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+		<commonality>0.5</commonality>
+	</MusicExpanded.TrackDef>
+
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - Kerghan's Castle</label>
+		<defName>ME_Arcanum_Sustain_KerghansCastle</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- Kerghan's Castle</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>
+
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - The Void</label>
+		<defName>ME_Arcanum_Sustain_TheVoid</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- The Void</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>
+
+
+	<!-- ============================================================
+	     CREDITS  (duplicate def; MEF native logic, no vanillaLogic:
+	     MusicManagerPlay is null on the credits screen)
+	     ============================================================ -->
+
+	<MusicExpanded.TrackDef>
+		<label>Arcanum - The Void</label>
+		<defName>ME_Arcanum_Credits_TheVoid</defName>
+		<clipPath>MusicExpanded/Arcanum/Arcanum- The Void</clipPath>
+		<cue>Credits</cue>
+		<playOnMap>false</playOnMap>
+	</MusicExpanded.TrackDef>
+
+</Defs>
